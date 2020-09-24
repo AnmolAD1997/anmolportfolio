@@ -27,16 +27,16 @@
       "last 1 safari version"
     ]
   },
-  "description": "![ReactJS Resume Website Template](resume-screenshot.png?raw=true \"ReactJS Resume Website Template\")",
+  "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CleverProgrammers/react-portfolio.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CleverProgrammers/react-portfolio/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/CleverProgrammers/react-portfolio#readme"
+  "homepage": ""
 }

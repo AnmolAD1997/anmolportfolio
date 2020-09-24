@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name": "Anmol Adhikari",
+    "occupation": "Full Stack Java/ReactJS Developer",
+    "description": "Full Stack Java/Node/React Developer by Day, Researcher and freelancer by Night. #MillionaireIncoming",
+    "image": "IG_Sonny.jpeg",
+    "bio": "I am Anmol, I'm a Full Stack Java/ReactJS Developer. Currently I am Learning myself and developing my skills on programming. ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "adhikari.anmol97@gmail.com",
+    "phone": "+4697390122",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Dallas",
+      "state": "Texas",
+      "zip": "75041"
+    },
+    "website": "https://drive.google.com/file/d/1QDjdT8LN1y9VDYa_zaPLFcjqIMOKBF6O/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1QDjdT8LN1y9VDYa_zaPLFcjqIMOKBF6O/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/callme.tolmol",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/anmol-adhikari-4aa183184/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/anmol_ad/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/anmolad1997",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Skillfull enough to create a fully functional WebApp from start to finish using tools like Java/React with database and DevOps implemented.",
+    "education": [
+      {
+        "school": "University of Northampton",
+        "degree": "Bachelors in Computer Science(Software Engineering)",
+        "graduated": "September 2019",
+        "description": "Graduated with 'Grade A'"
+      }
+    ],
+    "work": [
+      {
+        "company": "Revature",
+        "title": "Full Stack Software Developer",
+        "years": "May 2020 - August 2020",
+        "description": "Developing Web Apps using tools like Java/Node/React alongside Database and  Practicing DevOps with Agile Methodology."
+      },
+      {
+        "company": "CloudFactory Nepal",
+        "title": "Software Developer",
+        "years": "February 2018 -  October 2029",
+        "description": "Handling already existing websites and implementing features."
+      }
+    ],
+    "skills": [
+      
+      {
+        "name": "Java/Spring",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Node/Express",
+        "level": "70%"
+      },
+      {
+        "name": "Jenkins(DevOps Pipeline)",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "AWS-(EC2/S3/RDS)",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
